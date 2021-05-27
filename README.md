@@ -1,4 +1,4 @@
-Hi 👋, I'm Kevin.  A software engineer working remotely out of Chicago.</h3> 
+Hi 👋 I'm Kevin, a software engineer working remotely out of Chicago.</h3> 
 
 - 🔭 I’m currently working on the data pipeline powering [Sprout Social's Analytics Platform](https://sproutsocial.com/features/social-media-analytics/).
 
